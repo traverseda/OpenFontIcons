@@ -24,7 +24,7 @@ folder, starting with a unique 7-digit number.
 `Supplemental Private Use Area-B` will be reservered for large third-party
 custom icon sets.
 
-The glyphs from 0000-0251 are built from the MIT-licensed [feather
+The glyphs from 0000-0257 are built from the MIT-licensed [feather
 icons](https://feathericons.com/).
 
 
